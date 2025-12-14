@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\bin\Debug\net8.0\PlantillaHtml.exe
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\bin\Debug\net8.0\PlantillaHtml.deps.json
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\bin\Debug\net8.0\PlantillaHtml.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\bin\Debug\net8.0\PlantillaHtml.dll
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\bin\Debug\net8.0\PlantillaHtml.pdb
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\obj\Debug\net8.0\PlantillaHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\obj\Debug\net8.0\PlantillaHtml.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\obj\Debug\net8.0\PlantillaHtml.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\obj\Debug\net8.0\PlantillaHtml.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\obj\Debug\net8.0\PlantillaHtml.sourcelink.json
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\obj\Debug\net8.0\PlantillaHtml.dll
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\obj\Debug\net8.0\refint\PlantillaHtml.dll
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\obj\Debug\net8.0\PlantillaHtml.pdb
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\obj\Debug\net8.0\PlantillaHtml.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\PlantillaHtml\PlantillaHtml\PlantillaHtml\obj\Debug\net8.0\ref\PlantillaHtml.dll

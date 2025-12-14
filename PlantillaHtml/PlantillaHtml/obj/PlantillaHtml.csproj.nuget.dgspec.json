@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edgardo Gomez\\Documents\\GitHub\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml.csproj": {}
+    "C:\\Users\\USER\\Documents\\GitHub\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edgardo Gomez\\Documents\\GitHub\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edgardo Gomez\\Documents\\GitHub\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml.csproj",
         "projectName": "PlantillaHtml",
-        "projectPath": "C:\\Users\\Edgardo Gomez\\Documents\\GitHub\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml.csproj",
-        "packagesPath": "C:\\Users\\Edgardo Gomez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edgardo Gomez\\Documents\\GitHub\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\PlantillaHtml\\PlantillaHtml\\PlantillaHtml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Edgardo Gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

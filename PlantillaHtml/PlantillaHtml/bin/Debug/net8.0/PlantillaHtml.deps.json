@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PlantillaHtml/1.0.0": {
+        "runtime": {
+          "PlantillaHtml.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlantillaHtml/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
